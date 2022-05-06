@@ -172,6 +172,4 @@ The enemy character was downloaded from [https://github.com/BL-MSCH-C220-S22/3D-
 None
 
 ## Created by 
-
-Jason Francis
-```
+Jack Joseph
